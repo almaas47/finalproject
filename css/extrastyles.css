@@ -1,0 +1,9 @@
+/* Extra Styles for Pro Page */
+.croppedimage{
+    width: 1200px;
+  height: 400px;
+  object-fit: cover;
+}
+.anchor{
+    color: rgb(8, 0, 150);
+}
